@@ -3,7 +3,7 @@
 ##################################################
 ##################################################
 # 												 #
-# 	  Copyright (c) 2016, Subhrajyoti Sen		 #
+# 	  Copyright (c) 2016, Nachiket Namjoshi		 #
 # 			 All rights reserved.				 #
 # 												 #
 # 	         Kernel Build Script 	       		 #
